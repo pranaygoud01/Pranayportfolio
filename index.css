@@ -88,7 +88,7 @@ header{
 .about-content{
     display: flex;
    justify-content:space-evenly;
-padding:100px 0px 0px 0px;
+padding:80px 0px 0px 0px;
 
 }
 .about-pic{
@@ -105,7 +105,7 @@ padding:100px 0px 0px 0px;
 }
 .about-con h1{
     font-size:50px;
-    color: rgba(111, 111, 111, 0.718);
+    color: rgba(172, 167, 167, 0.718);
     margin:20px 0px 20px 0px;
 }
 .skills{
