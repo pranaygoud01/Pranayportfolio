@@ -3,6 +3,10 @@
     padding: 0;
     scroll-behavior: smooth;
    color:white;
+    box-sizing: border-box;
+   text-decoration: none;
+   border:none;
+   outline:none;
    font-family: 'Segoe UI';
 }
 header{
