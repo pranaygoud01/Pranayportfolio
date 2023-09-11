@@ -88,7 +88,7 @@ header{
 .about-content{
     display: flex;
    justify-content:space-evenly;
-padding:150px 0px 0px 0px;
+padding:100px 0px 0px 0px;
 
 }
 .about-pic{
