@@ -253,7 +253,7 @@ padding:150px 0px 0px 0px;
 display: flex;
 justify-content: space-evenly;
  width:450px;
- margin-left:100px;
+ margin-left:10px;
 }
 .nam{
    
@@ -261,7 +261,7 @@ justify-content: space-evenly;
     padding-left: 30px;
 }
 .phn1{
-   margin-left:300px;
+   margin-left:200px;
 
 }
 
