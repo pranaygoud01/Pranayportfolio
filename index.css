@@ -52,7 +52,7 @@ header{
     background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('./images/background.jpg');
     background-position: center;
     background-attachment: fixed;
-    height:550px;
+    height:100vh;
     width:100vw;
     display: flex;
     align-items: center;
